@@ -11,3 +11,8 @@
     * [Single Scan](radiomics/feature-extraction/single-scan.md)
 * [👨‍🏫 Learning](learning.md)
 * [🕹️ Demonstration](demonstration.md)
+
+## FORMS
+
+* [✍️ Contact us](forms/contact-us.md)
+* [⚠️ Report an issue](forms/report-an-issue.md)
