@@ -11,8 +11,16 @@
     * [Single Scan](radiomics/feature-extraction/single-scan.md)
 * [👨‍🏫 Learning](learning.md)
 * [🕹️ Demonstration](demonstration.md)
+* [🤓 About us](https://medomics-udes.gitbook.io/medomicslab-docs/about-us)
 
 ## FORMS
 
 * [✍️ Contact us](forms/contact-us.md)
 * [⚠️ Report an issue](forms/report-an-issue.md)
+
+## MEDIA
+
+* [🏥 MEDimage website](https://medimage.app/)
+* [🤖 GitHub](https://github.com/MEDomics-UdeS/medimage-app/)
+* [📺 YouTube](https://www.youtube.com/@MEDomicsLab)
+* [👾 Discord](https://discord.com/invite/ZbaGj8E6mP)
