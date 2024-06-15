@@ -2,6 +2,7 @@
 
 * [👋 Welcome!](README.md)
 * [👊 Quick start](quick-start.md)
+* [👀 Interface overview](interface-overview.md)
 * [🧠 Radiomics](radiomics/README.md)
   * [Data Processing](radiomics/data-processing/README.md)
     * [Data Manager](radiomics/data-processing/data-manager.md)
@@ -24,4 +25,4 @@
 * [🏥 MEDimage website](https://medimage.app/)
 * [🤖 GitHub](https://github.com/MEDomics-UdeS/medimage-app/)
 * [📺 YouTube](https://www.youtube.com/@MEDomicsLab)
-* [👾 Discord](https://discord.com/invite/ZbaGj8E6mP)
+* [👾 Discord](https://discord.gg/kzNVmDsXWp)
