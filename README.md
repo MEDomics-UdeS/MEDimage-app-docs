@@ -38,13 +38,13 @@ The MEDimage-app is a graphical implementation of the MEDimage Python package. I
 
 ### Our goal
 
-The goal of this application is to facilitate radiomics analyses for researchers from different backgrounds and to encourage more synergy between multidisciplinary teams.  To achieve this, the application allows users to design their own experiments by customizing pipelines and defining settings. The back-end code is implement in a modular way, allowing easy adaptations and modifications. Users can also generate code for their designed experiments. The following figure depicts the different parts of the app:
+The goal of the MEDimage app is to facilitate radiomics analyses for researchers from various disciplines and push for greater synergy among multidisciplinary teams. To achieve this, the application allows users to design their own experiments by customizing pipelines and defining specific settings. The back-end code is implemented in a modular way, ensuring easy adaptation and modification to meet diverse research needs. Additionally, users can generate Python code for their designed experiments, enabling reproducibility and further customization. With its intuitive interface and robust capabilities, the MEDimage app is designed to enhance research efficiency and collaboration. The following figure depicts the different parts of the app:
 
 <figure><img src=".gitbook/assets/MEDimageAppModules.png" alt=""><figcaption><p>MEDimage-app modules overview</p></figcaption></figure>
 
 Before diving in, we recommend familiarizing yourself with the concepts of radiomics. You can read more about radiomics [here](radiomics/).
 
-### Documentation guide
+### Quick documentation guide
 
 * To download and install the application, go to the [next page](quick-start.md).
 * For tutorials, refer to the [radiomics page](radiomics/).
