@@ -11,6 +11,7 @@
     * [Single Scan](radiomics/feature-extraction/single-scan.md)
 * [👨‍🏫 Learning](learning.md)
 * [🕹️ Demonstration](demonstration.md)
+* [👩‍💻 Contributing](contributing.md)
 * [🤓 About us](https://medomics-udes.gitbook.io/medomicslab-docs/about-us)
 
 ## FORMS
