@@ -14,6 +14,7 @@
 * [🕹️ Demonstration](demonstration.md)
 * [👩‍💻 Contributing](contributing.md)
 * [🤓 About us](https://medomics-udes.gitbook.io/medomicslab-docs/about-us)
+* [🤓 About us](about-us.md)
 
 ## FORMS
 
