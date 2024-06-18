@@ -26,4 +26,4 @@ Feature extraction is the final processing step where feature descriptors are ut
 
 Many different ways and formulas exist to calculate these features, therefore, adherence to the [Image Biomarker Standardization Initiative (IBSI)](https://theibsi.github.io/) guidelines is recommended. These guidelines offer a consensus for standardized feature calculations from all radiomic features.
 
-**Hungry for more information? Continue reading** [**here**](https://medium.com/@mahdiall99/radiomics-in-medical-imaging-a-brief-introduction-3208863aae87)**.**
+**Craving more details? Keep reading** [**here**](https://medium.com/@mahdiall99/radiomics-in-medical-imaging-a-brief-introduction-3208863aae87)**.**
