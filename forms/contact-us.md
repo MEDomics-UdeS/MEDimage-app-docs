@@ -1,3 +1,3 @@
 # ✍️ Contact us
 
-{% embed url="https://forms.gle/72xDQnNcwvChhgVW6" %}
+{% embed url="https://forms.gle/AUp8Wnn4if65AehT6" %}
