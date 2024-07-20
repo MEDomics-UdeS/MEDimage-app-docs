@@ -11,6 +11,7 @@
     * [Batch Extraction](radiomics/feature-extraction/batch-extraction.md)
     * [Single Scan](radiomics/feature-extraction/single-scan.md)
 * [👨‍🏫 Learning](learning.md)
+* [♻️ Code generation](code-generation.md)
 * [🕹️ Demonstration](demonstration.md)
 * [👩‍💻 Contributing](contributing.md)
 * [🤓 About us](about-us.md)
