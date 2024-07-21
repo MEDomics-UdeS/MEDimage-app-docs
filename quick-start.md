@@ -6,20 +6,26 @@ description: Installation of the app
 
 ## Automatic installation
 
-{% hint style="warning" %}
-Below are tutorials for downloading and installing the app on various operating systems. The tutorials provided are for MEDomicsLab (the parent app), and the instructions remain the same. However, please use the following link to download the assets for the MEDimage-app: [MEDimage-app release](https://github.com/MEDomics-UdeS/MEDimage-app/releases/tag/v0.0.1).
-{% endhint %}
+Below are tutorials for downloading and installing the app on various operating systems.
 
 {% tabs %}
 {% tab title="Windows" %}
+{% hint style="warning" %}
+This tutorial is for MEDomicsLab (the parent app) and will be updated soon, but the instructions remain the same. However, please use the following link to download the assets for the MEDimage-app: [MEDimage-app release](https://github.com/MEDomics-UdeS/MEDimage-app/releases/tag/v0.0.1).&#x20;
+{% endhint %}
+
 {% embed url="https://www.youtube.com/watch?ab_channel=MEDomicsLab&v=MSPWubu8qK8" %}
 {% endtab %}
 
 {% tab title="Ubuntu" %}
-{% embed url="https://www.youtube.com/watch?ab_channel=MEDomicsLab&v=7OCasKO8zJU" %}
+{% embed url="https://youtu.be/p4oq58PLA28" %}
 {% endtab %}
 
 {% tab title="MacOS" %}
+{% hint style="warning" %}
+This tutorial is for MEDomicsLab (the parent app) and will be updated soon, but the instructions remain the same. However, please use the following link to download the assets for the MEDimage-app: [MEDimage-app release](https://github.com/MEDomics-UdeS/MEDimage-app/releases/tag/v0.0.1).&#x20;
+{% endhint %}
+
 {% embed url="https://www.youtube.com/watch?ab_channel=MEDomicsLab&v=J9wq_C6PHK0" %}
 {% endtab %}
 {% endtabs %}
