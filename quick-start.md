@@ -10,11 +10,7 @@ Below are tutorials for downloading and installing the app on various operating 
 
 {% tabs %}
 {% tab title="Windows" %}
-{% hint style="warning" %}
-This tutorial is for MEDomicsLab (the parent app) and will be updated soon, but the instructions remain the same. However, please use the following link to download the assets for the MEDimage-app: [MEDimage-app release](https://github.com/MEDomics-UdeS/MEDimage-app/releases/tag/v0.0.1).&#x20;
-{% endhint %}
-
-{% embed url="https://www.youtube.com/watch?ab_channel=MEDomicsLab&v=MSPWubu8qK8" %}
+{% embed url="https://youtu.be/i6w9op4iNk8" %}
 {% endtab %}
 
 {% tab title="Ubuntu" %}
